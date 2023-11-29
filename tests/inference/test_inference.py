@@ -1,4 +1,4 @@
-import numpy
+import numpy 
 from PIL import Image
 import pytest
 from pytest import fixture
